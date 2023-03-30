@@ -2,7 +2,7 @@
 
 I am a software engineer with a diverse professional background that includes experience in local government and non-profit organizations.
 
-I are proficient in JavaScript, React.js, Node.js, Express.js, DOM, Ruby on Rails, SQL, HTML, CSS, REST API, and Git flow. I recently have completed several projects during my certification process at Flatiron School, including Weed2gether and Rainbow Note.
+I are proficient in JavaScript, React.js, Node.js, Express.js, DOM, Ruby on Rails, SQL, HTML, CSS, REST API, and Git flow. I recently have completed several projects during my certification process at Flatiron School, including [Weed2gether](https://github.com/qibinyej/capstone-weed2gether) and [Rainbow Note](https://github.com/bachdumpling/rainbow-note-app-v2).
 
 In addition to my technical skills, I have strong interpersonal communication skills, enjoy working with the general public, and have experience in case management. I thrive when working on teams to problem solve and create advanced technological solutions that lead to successful outcomes.
 
