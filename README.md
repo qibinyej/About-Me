@@ -2,7 +2,7 @@
 
 I am a software engineer with a diverse professional background that includes experience in local government and non-profit organizations.
 
-I recently have completed several projects during my certification process at Flatiron School, including [Weed2gether](https://github.com/qibinyej/capstone-weed2gether) and [Rainbow Note](https://github.com/bachdumpling/rainbow-note-app-v2).
+I recently completed several projects during my certification process at Flatiron School, including [Weed2gether](https://github.com/qibinyej/capstone-weed2gether) and [Rainbow Note](https://github.com/bachdumpling/rainbow-note-app-v2).
 
 Technical Skills:
 
