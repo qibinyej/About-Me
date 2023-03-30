@@ -4,9 +4,15 @@ I am a software engineer with a diverse professional background that includes ex
 
 I recently have completed several projects during my certification process at Flatiron School, including [Weed2gether](https://github.com/qibinyej/capstone-weed2gether) and [Rainbow Note](https://github.com/bachdumpling/rainbow-note-app-v2).
 
-Frontend: JavaScript
-Backend: Ruby on Rails, Node.js
-Tools: HTML, CSS, Bootstrap
+Technical Skills:
+
+:blossom: Programming Languages: JavaScript, Ruby, HTML, CSS
+
+:blossom: Frameworks/Libraries: React, Ruby on Rails, Node.js, Express.js
+
+:blossom: Tools/Platforms: Git, GitHub, Heroku
+
+:blossom: APIs: REST
 
 
 In addition to my technical skills, I have strong interpersonal communication skills, enjoy working with the general public, and have experience in case management. I thrive when working on teams to problem solve and create advanced technological solutions that lead to successful outcomes.
