@@ -15,7 +15,7 @@ Technical Skills:
 :blossom: APIs: REST
 
 
-In addition to my technical skills, I have strong interpersonal communication skills, enjoy working with the general public, and have experience in case management. I thrive when working on teams to problem solve and create advanced technological solutions that lead to successful outcomes.
+In addition to my technical skills, I have strong interpersonal communication skills, enjoy working with the general public, and have extensive experience in case management. I thrive when working on teams to problem solve and create advanced technological solutions that lead to successful outcomes.
 
 I have a background in local government and non-profit organizations, where I have held various roles in which, I managed and supervised teams, cultivated and supported relationships with diverse stakeholders, and identified, researched, and resolved group/individual inquiries.
 
